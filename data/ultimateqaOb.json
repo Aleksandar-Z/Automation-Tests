@@ -1,0 +1,20 @@
+{
+    "input1":{
+        "firstName": "Mike",
+        "textMessage": "Hello"
+    },
+    "input2":{
+        "firstName": "Mike",
+        "textMessage": ""
+    },
+    "input3":{
+        "firstName": "Marko",
+        "textMessage": "Neka poruka",
+        "number": "21"
+    },
+    "input4":{
+        "firstName": "Marko",
+        "textMessage": "Marko voli matematiku",
+        "number": "13"
+    }
+}

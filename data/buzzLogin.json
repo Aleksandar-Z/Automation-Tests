@@ -1,0 +1,25 @@
+
+{
+    "user1": {
+      "email": "zaTestiranjeQA@gmail.com",
+      "password":"zaTestiranjeQA67"
+    },
+    "use2":{
+      "email":"zaTestiranjeQA@gmail.com",
+      "password":""
+    },
+    "use3":{
+      "email":"",
+      "password":"zaTestiranjeQA67"
+    },
+    "user4": {
+      "email": "test@gmail.com",
+      "password":"zaTestiranjeQA67"
+    },
+    "user5": {
+      "email": "zaTestiranjeQA@gmail.com",
+      "password":"test123"
+    }
+  
+  }
+  
